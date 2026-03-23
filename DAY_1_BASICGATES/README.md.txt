@@ -1,0 +1,1 @@
+On this day i made basic gates or , not, and in Verilog
